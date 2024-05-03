@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyGithubApp</string>
+    <string name="enter_username">Ketikkan username...</string>
+    <string name="error_message">User Not Found</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="amount_followers">99</string>
+    <string name="amount_following">99</string>
+    <string name="bio">Biodata Pengguna</string>
+    <string name="list_favorite">Daftar Pengguna Favorit</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="fav_button_desc">Tombol suka untuk menyimpan data user ke daftar favorit</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyGithubApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_gray</item>
+        <item name="colorPrimaryVariant">@color/primary_black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_gray</item>
+        <item name="colorSecondaryVariant">@color/stroke_gray</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>
